@@ -1,0 +1,53 @@
+
+body{
+  background-color:rgb(134, 144, 239);
+}
+table, td {
+
+    width:50%;
+    border: 1px solid rgb(0, 0, 0);
+    color: blue;
+    font-size:x-large;
+}
+h1{
+    text-align: center;
+    color: rgb(248, 53, 89);
+    text-shadow: 3px 3px 5px rgb(53, 228, 33)
+    
+}
+h3{
+    text-align: center;
+    color: rgb(248, 53, 89);  
+    
+}
+#p1{
+    text-align: center;  
+}
+.p2{
+    text-align: center; 
+}
+
+  .p3{
+ 
+    text-align: center;  
+    list-style-position: inside;
+
+  }
+ 
+#p4{
+  text-align: center;
+  list-style-position: inside;
+}
+.ta{
+  text-align: center;
+}
+table.ta{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.im img{
+  border: 10px solid rgb(248, 53, 89);
+}
